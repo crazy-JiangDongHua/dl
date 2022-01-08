@@ -98,7 +98,7 @@ print(sel.fit_transform(X))
 
 其他还有很多很多过滤方法，等以后有机会学习特征工程时候再补充
 
-![feature_selcet_filter_method](.\feature_selcet_filter_method.png)
+![feature_selcet_filter_method](https://raw.githubusercontent.com/crazy-JiangDongHua/dl/master/thought/feature_selcet_filter_method.png)
 
 
 

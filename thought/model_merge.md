@@ -89,7 +89,7 @@ Bagging就是采用有放回的方式进行抽样，用抽样的样本建立子�
 
 这样实现就是两层循环，第一层是模型，第二层是k折交叉验证。**第二层的模型一般为了防止过拟合会采用简单的模型。还有一种思想是：第二层的输入数据，除了第一层的训练结果外，还包括了原始特征。**示意图如下：
 
-![img](./stacking.png)
+![img](https://raw.githubusercontent.com/crazy-JiangDongHua/dl/master/thought/stacking.png)
 
 #### Blending----与Stacking类似，只是由K-FoldCV 改成 HoldOutCV
 
