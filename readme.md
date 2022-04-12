@@ -23,6 +23,19 @@
    * 补充：2021 PPT6 batch normalization
 10. 2020 PPT10 神经网络为什么要深
 11. 2020 PPT11 卷积神经网络
+11. 2020 PPTx  强化学习简介
+11. 2020 PPTx+1 policy gradient和PPO算法
+11. 2020 PPTx+2 value-based方法和Q-learning
+11. 2020 PPTx+3 actor-critic方法
+11. 2020 PPTx+4 稀疏reward的处理方法和reward整形
+11. 2020 PPTx+5 逆强化学习(有师学习)
+
+
+
+课程的作业其实也涵盖了很多深度学习常用的算法模板，以供参考：
+
+1. 2020 hw1: mismatch检查（KDE曲线）， 特征选择（相关性，互信息），早停，模型融合stacking
+2. 2020 hw15: policy gradient, D3QN, baseline of reinforcement learning, PPO
 
 如果您发现了什么错漏或是对项目有什么建议，欢迎pull requests或联系我的邮箱759421566@qq.com。
 
